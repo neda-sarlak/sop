@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<style type="text/css">
+body{
+ direction:rtl;
+}
+</style>
+### به نام خدا 
+---
+### انگیزه نامه 
 
-You can use the [editor on GitHub](https://github.com/neda-sarlak/sop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### اطلاعات شخصی
 
-### Markdown
+---
++ نام : ندا
++ نام خانوادگی : سرلک
++ 136/03/30 :تاریخ تولد 
++ دانشجوی مهندسی کامپیوتر
++ موقعیت مکانی : ایران،تهران
++ دانشگاه : پیامنور واحد پاکدشت 
++ ایمیل : n.sarlak@yahoo.com
++ شماره تماس : 09125357885
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### توضیحات فردی
 
-# Header 1
-## Header 2
-### Header 3
+---
++ متاهل و دارای سه فرزند هستم  
 
-- Bulleted
-- List
+### تجربیات 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neda-sarlak/sop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
++ ندریس ریاضی 
++ ندریس مقدماتی کامپیوتر 
++ تدریس فتوشاپ و فلش 
++ طراحی سایت با وردپرس
